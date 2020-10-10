@@ -1,0 +1,4 @@
+*.exe
+*.cs
+# MacOS
+.DS_Store
