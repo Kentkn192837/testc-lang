@@ -19,6 +19,7 @@ int main()
 
     result = muscle(weight, rateOffat);
     printf("骨格筋率: %f", result);
+    return 0;
 }
 
 float muscle(float weight, float rateOffat)
