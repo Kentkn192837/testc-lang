@@ -33,5 +33,6 @@ int main(void)
         fprintf(fp, "%lf\n", z[i]);
     }
 
+    fclose(fp);
     return 0;
 }
