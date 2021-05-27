@@ -2,5 +2,7 @@
 *.cs
 *.o
 *.txt
+*.ipynb
+
 # MacOS
 .DS_Store
