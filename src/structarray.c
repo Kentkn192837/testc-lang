@@ -1,3 +1,4 @@
+/* encoding=shiftjis */
 #define STUDENTNO 5
 #define SUBJECTNO 3
 
