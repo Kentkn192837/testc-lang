@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <string>
 
 int main()
 {
@@ -7,7 +8,7 @@ int main()
      —v‘f”‚ª10‚ÅŠe—v‘f‚ğ-1‚Å‰Šú‰»
     */
     std::vector<int> vec(10, -1);
-    for (int i = 0; i < 10; i++) {
+    for (size_t i = 0; i < vec.size(); i++) {
         std::cout << vec[i] << std::endl;
     }
 
