@@ -3,10 +3,10 @@
 
 int main()
 {
-	std::vector<int> iv = { 1, 2, 3, 4, 5 };
+    std::vector<int> iv = { 1, 2, 3, 4, 5 };
 
-	for (int v : iv)
-	{
-		std::cout << v << std::endl;
-	}
+    for (int v : iv)
+    {
+        std::cout << v << std::endl;
+    }
 }
