@@ -5,7 +5,7 @@
 int main()
 {
     std::string str = "apple";
-    std::vector<char> cv{ str.begin(), str,end() };
+    std::vector<char> cv{ str.begin(), str.end() };
 
     for (char c : cv)
     {
