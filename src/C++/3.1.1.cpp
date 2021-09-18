@@ -1,5 +1,5 @@
 #include <iostream>
-
+// constメンバー関数にすることで、constで宣言されたインスタンスでもメンバー関数が呼び出せる
 class Product
 {
     int id;
